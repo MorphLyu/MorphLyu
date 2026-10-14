@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="吕怡纬的机器人与工程作品集：跨介质栖息无人机、ROS 自主导航、具身交互与肌电仿生。">
+  <meta name="theme-color" content="#171a16"><title>吕怡纬 · Robotics & Engineering</title>
+  <link rel="icon" href="assets/mark.svg" type="image/svg+xml"><link rel="stylesheet" href="noto-sans-sc.css"><link rel="stylesheet" href="manrope.css"><link rel="stylesheet" href="style.css"><link rel="stylesheet" href="refined.css"><link rel="stylesheet" href="brittany-inspired.css">
+  <script src="content.js" defer></script><script src="app.js" defer></script><script src="motion.js" defer></script>
+</head>
+<body>
+  <a href="#work" class="skip">跳至项目</a>
+  <header class="nav"><a class="brand" href="#home" aria-label="吕怡纬，回到首页"><span class="brand-mark">M<span>↗</span></span><span>MORPHLYU<span class="brand-sub">ROBOTICS & ENGINEERING</span></span></a>
+    <nav aria-label="主导航"><a href="#work">项目 <span>01</span></a><a href="#stack">技术 <span>02</span></a><a href="#research">研究 <span>03</span></a><a href="#about">关于 <span>04</span></a></nav>
+    <div class="nav-actions"><button id="theme" aria-label="切换浅色或深色主题" title="切换主题">◐</button><a class="contact-nav" href="#contact">联系我 <span>↗</span></a></div>
+  </header>
+  <main>
+    <section class="hero" id="home" aria-labelledby="hero-title">
+      <img class="hero-image" src="assets/hero-dark.webp" alt="技术面 PPT 中抓取机构闭合状态的跨介质无人机原型" fetchpriority="high">
+      <div class="hero-shade"></div><div class="hero-top"><span><i class="status-dot"></i> OPEN TO ROBOTICS OPPORTUNITIES</span><span>ZHENGZHOU, CN / 2026</span></div>
+      <div class="hero-content"><p class="eyebrow">ENGINEERING MEETS INTELLIGENCE.</p><h1 id="hero-title">吕怡纬<span>Yiwei Lyu.</span></h1><p class="hero-copy">机器人 · 算法 · 智能硬件<br><span class="education-line">中国科学院大学 · 计算机应用技术（已推免）</span></p><div class="hero-links"><a class="lime-button" href="#work">探索我的项目 <span>↓</span></a><a class="hero-github" href="https://github.com/MorphLyu" target="_blank" rel="noopener noreferrer">GitHub ↗</a></div></div>
+      <div class="hero-caption"><span>DESIGN STUDY / 001</span><strong>精卫 · 跨介质栖息无人机</strong><span>技术面作品 / 抓持机构闭合状态</span><button data-project="jingwei">查看研究项目 ↗</button></div>
+      <div class="hero-bottom"><span>ROBOTICS × INTELLIGENCE × SOFTWARE</span><a href="#work">SCROLL TO EXPLORE ↓</a></div>
+    </section>
+    <div class="intro-strip"><p>中国科学院大学 · 计算机应用技术（已推免）</p><span>郑州大学 · 人工智能拔尖创新班</span><a href="https://github.com/MorphLyu/CampusFly-UAV" target="_blank" rel="noopener noreferrer">开源项目 CampusFly ↗</a></div>
+    <section class="section work" id="work" aria-labelledby="work-title"><div class="section-heading"><div><p class="eyebrow">01 / SELECTED WORK</p><h2 id="work-title">想法，变成作品。<span>Selected projects.</span></h2></div><p class="section-note">从物理结构到智能系统，<br>探索可感知、可行动的机器人。</p></div>
+      <div class="filter-bar" role="group" aria-label="项目分类"><button class="active" data-filter="all" aria-pressed="true">全部项目 <span id="total-projects">07</span></button><button data-filter="robotics" aria-pressed="false">机器人</button><button data-filter="software" aria-pressed="false">软件与导航</button><button data-filter="intelligence" aria-pressed="false">智能交互</button><span id="project-count" aria-live="polite">7 PROJECTS</span></div>
+      <div id="projects"></div>
+    </section>
+    <section class="section stack" id="stack" aria-labelledby="stack-title"><div class="section-heading"><div><p class="eyebrow">02 / ENGINEERING CONNECTIONS</p><h2 id="stack-title">系统之间，建立连接。<span>How it comes together.</span></h2></div><p class="section-note">技术的价值，<br>在于它如何服务一个完整的系统。</p></div>
+      <div class="stack-layout"><div class="stack-tabs" role="tablist" aria-label="技术系统"><button role="tab" aria-selected="true" id="tab-nav" aria-controls="stack-panel" data-stack="0"><span>01</span> 自主导航 <small>SOFTWARE</small></button><button role="tab" aria-selected="false" id="tab-mech" aria-controls="stack-panel" data-stack="1" tabindex="-1"><span>02</span> 仿生结构 <small>ROBOTICS</small></button><button role="tab" aria-selected="false" id="tab-ai" aria-controls="stack-panel" data-stack="2" tabindex="-1"><span>03</span> 智能交互 <small>INTELLIGENCE</small></button><button role="tab" aria-selected="false" id="tab-signal" aria-controls="stack-panel" data-stack="3" tabindex="-1"><span>04</span> 生物信号 <small>BIOSIGNALS</small></button></div><div id="stack-panel" role="tabpanel" aria-labelledby="tab-nav" tabindex="0"></div></div>
+    </section>
+    <section class="section research" id="research" aria-labelledby="research-title"><div class="section-heading"><div><p class="eyebrow">03 / RESEARCH & MILESTONES</p><h2 id="research-title">探索，留下记录。<span>Research & recognition.</span></h2></div><p class="section-note">论文、专利与竞赛，<br>记录不同阶段的研究与实践。</p></div>
+      <div class="research-layout"><article class="paper"><p class="eyebrow">PUBLICATION / FIRST AUTHOR</p><div class="paper-icon" aria-hidden="true">↗</div><h3>水下软体抓取手<br>研究现状及应用展望</h3><p>水下无人系统学报 · 2025<br>33(5): 769–779</p><p class="paper-detail">梳理驱动方式、仿生设计、刚度调节与多模态抓取，讨论水下柔性操作的应用与发展方向。</p><a href="https://doi.org/10.11993/j.issn.2096-3920.2025-0107" target="_blank" rel="noopener noreferrer">阅读论文 <span>↗</span></a></article>
+      <div class="timeline"><article><span class="timeline-date">2026 / 05</span><div><span class="label">发明专利 · 授权</span><h3>水域污染监测治理一体化平台</h3><p>第三发明人 · ZL 2025 1 1774088.7</p></div></article><article><span class="timeline-date">2025 / 11</span><div><span class="label">国家级一等奖</span><h3>“挑战杯”全国大学生课外学术科技作品竞赛</h3><p>团队获奖 · 科研与创新实践</p></div></article><article><span class="timeline-date">2025 / 08</span><div><span class="label">国家级一等奖</span><h3>中国机器人及人工智能大赛<br>中国机器人大赛暨 RoboCup 中国赛</h3><p>材料列明个人获奖排名均为第 1</p></div></article><article><span class="timeline-date">2024 / 12</span><div><span class="label">国家级二等奖</span><h3>中国高校计算机大赛 · 人工智能创意赛</h3><p>EMG 仿生义肢项目 · 个人排名第 3</p></div></article></div></div>
+    </section>
+    <section class="section about" id="about" aria-labelledby="about-title"><p class="eyebrow">04 / A LITTLE ABOUT ME</p><div class="about-layout"><h2 id="about-title">保持好奇。<br>认真造物。</h2><div><p class="about-lead">我是吕怡纬，郑州大学人工智能拔尖创新班本科生，已推免至中国科学院大学计算机应用技术专业。我的研究与工程兴趣集中在机器人、智能感知与具身交互。</p><p>我感兴趣的是跨越边界的工程问题：从水到空，从信号到动作，从理论分析到一个真实的原型。过往项目也让我接触到机器人导航、语言与表情交互，以及团队研发与竞赛实践。</p><div class="about-facts"><span>郑州大学<br><strong>人工智能拔尖创新班 / 2023 级</strong></span><span>学生创新实践<br><strong>“力学—未来机器人”创新中心</strong></span></div></div></div></section>
+    <section class="contact" id="contact"><div><p class="eyebrow">LET’S BUILD SOMETHING THAT MOVES.</p><h2>下一个工程问题，<br>一起解决。</h2><p>欢迎交流机器人、算法与智能硬件的实习及工作机会。</p></div><div class="contact-links"><a href="mailto:lyumechanics@163.com">lyumechanics@163.com <span>↗</span></a><a href="https://github.com/MorphLyu" target="_blank" rel="noopener noreferrer">github.com/MorphLyu <span>↗</span></a><button id="copy-email">复制邮箱 <span>＋</span></button><span id="copy-status" role="status"></span></div></section>
+  </main>
+  <footer><a href="#home">MORPHLYU ↗</a><span>THOUGHTFULLY BUILT. ALWAYS EXPLORING.</span><span>© 2026 Yiwei Lyu</span></footer>
+  <dialog id="project-dialog" aria-labelledby="dialog-title"><button class="dialog-close" aria-label="关闭项目详情">×</button><div id="dialog-content"></div></dialog>
+</body></html>
