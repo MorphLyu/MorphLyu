@@ -16,6 +16,8 @@
 
 <a id="aerial-aquatic-perching"></a>
 
+[独立项目主页](https://morphlyu.github.io/MorphLyu/projects/aerial-aquatic-perching/)
+
 ## 基于“抓取-吸附”双稳态结构的跨水-空介质飞行栖附机器人
 
 **科研课题 · 2024.07 起 · 主要设计者、论文第一作者**
@@ -36,6 +38,8 @@
 
 <a id="reconfigurable-end-effector"></a>
 
+[独立项目主页](https://morphlyu.github.io/MorphLyu/projects/reconfigurable-end-effector/)
+
 ## 可重构多模态抓取-吸附一体化仿生末端执行器
 
 **科研课题 · 2026 · 项目参与者、论文共同第二作者**
@@ -52,6 +56,8 @@
 **成果**：完成多场景操作验证。论文 *A Reconfigurable Multimodal Grasp-Adhesion End-Effector for Versatile Robotic Manipulation* 在审，共同第二作者。
 
 <a id="omnidirectional-underwater-robot"></a>
+
+[独立项目主页](https://morphlyu.github.io/MorphLyu/projects/omnidirectional-underwater-robot/)
 
 ## 基于低阻抗流体构型的六驱全向矢量水下机器人（ROV）
 
@@ -71,6 +77,8 @@
 **成果**：完成实体机器人研制与水下调试。相关水下机器人项目参加 RoboCup、全国海洋航行器设计与制作大赛、国际先进机器人及仿真技术大赛并获国家级奖励。
 
 <a id="humanoid-facial-interaction"></a>
+
+[独立项目主页](https://morphlyu.github.io/MorphLyu/projects/humanoid-facial-interaction/)
 
 ## 面向多模态感知交互的人形面部具身智能机器人
 
@@ -99,6 +107,8 @@ flowchart LR
 
 <a id="underwater-soft-gripper-review"></a>
 
+[独立项目主页](https://morphlyu.github.io/MorphLyu/projects/underwater-soft-gripper-review/)
+
 ## 水下软体抓取手研究现状及应用展望
 
 **学术论文 · 2024.07 — 2025.11 · 第一作者 · 已发表**
@@ -116,6 +126,8 @@ flowchart LR
 [阅读论文 · DOI: 10.11993/j.issn.2096-3920.2025-0107](https://doi.org/10.11993/j.issn.2096-3920.2025-0107)
 
 <a id="campus-delivery-navigation"></a>
+
+[独立项目主页](https://morphlyu.github.io/MorphLyu/projects/campus-delivery-navigation/)
 
 ## CampusFly 校园无人机配送仿真系统
 
@@ -136,6 +148,8 @@ flowchart LR
 [GitHub 源码与运行说明](https://github.com/MorphLyu/CampusFly-UAV)
 
 <a id="emg-prosthetic-hand"></a>
+
+[独立项目主页](https://morphlyu.github.io/MorphLyu/projects/emg-prosthetic-hand/)
 
 ## 基于 EMG 控制的 3D 打印仿生义肢
 

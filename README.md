@@ -16,13 +16,13 @@
 
 | 项目 | 我的工作 | 入口 |
 | :--- | :--- | :--- |
-| **跨水空介质飞行栖附机器人** | 主导双稳态抓附机构设计、仿真与样机验证；第一作者论文在审 | [项目档案](PROJECTS.md#aerial-aquatic-perching) |
-| **可重构多模态末端执行器** | 参与抓取、外扩、吸附与包裹的多构型设计和操作验证；论文共同第二作者 | [项目档案](PROJECTS.md#reconfigurable-end-effector) |
-| **六驱全向矢量水下机器人** | 机械与团队负责人；构型、推进器布局、密封舱、载荷接口与水池调试 | [项目档案](PROJECTS.md#omnidirectional-underwater-robot) |
-| **人形面部具身智能机器人** | 核心成员；24 自由度传动与多模态感知集成，语音与表情时序对齐 | [项目档案](PROJECTS.md#humanoid-facial-interaction) |
+| **跨水空介质飞行栖附机器人** | 主导双稳态抓附机构设计、仿真与样机验证；第一作者论文在审 | [独立项目页](https://morphlyu.github.io/MorphLyu/projects/aerial-aquatic-perching/) |
+| **可重构多模态末端执行器** | 参与抓取、外扩、吸附与包裹的多构型设计和操作验证；论文共同第二作者 | [独立项目页](https://morphlyu.github.io/MorphLyu/projects/reconfigurable-end-effector/) |
+| **六驱全向矢量水下机器人** | 机械与团队负责人；构型、推进器布局、密封舱、载荷接口与水池调试 | [独立项目页](https://morphlyu.github.io/MorphLyu/projects/omnidirectional-underwater-robot/) |
+| **人形面部具身智能机器人** | 核心成员；24 自由度传动与多模态感知集成，语音与表情时序对齐 | [独立项目页](https://morphlyu.github.io/MorphLyu/projects/humanoid-facial-interaction/) |
 | **水下软体抓取手研究综述** | 第一作者；梳理灵巧结构、柔顺驱动、刚度调节与感知控制 | [论文与研究](PROJECTS.md#underwater-soft-gripper-review) |
 | **校园无人机配送仿真** | 个人开源仓库；ROS 导航、地图构建与多航点任务 | [源码](https://github.com/MorphLyu/CampusFly-UAV) · [档案](PROJECTS.md#campus-delivery-navigation) |
-| **肌电控制仿生义肢** | 团队成员；人工智能创意赛国家级二等奖，获奖排名第 3 | [项目档案](PROJECTS.md#emg-prosthetic-hand) |
+| **肌电控制仿生义肢** | 团队成员；人工智能创意赛国家级二等奖，获奖排名第 3 | [独立项目页](https://morphlyu.github.io/MorphLyu/projects/emg-prosthetic-hand/) |
 
 ## 研究与工程方法
 
@@ -51,3 +51,6 @@
 正在关注机器人、算法与智能硬件方向的实习机会。欢迎交流末端执行器、多模态交互与机器人系统集成。
 
 **[lyumechanics@163.com](mailto:lyumechanics@163.com)** · [github.com/MorphLyu](https://github.com/MorphLyu)
+
+
+[全部项目独立页面与相关链接](PROJECT-LINKS.md)
